@@ -10,7 +10,7 @@ Using **Advanced Excel**, an interactive dashboard was built to monitor sales pe
 
 # Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
@@ -106,13 +106,12 @@ The objective was to transform raw sales data into actionable business insights 
 
 ---
 
-# Repository Structure
+# ## 📁 Repository Structure
 
-```
-Dataset/
-Images/
-PROJECT_excel.xlsx
+```text
+Ferns and Petals Sales Analysis.pdf
 README.md
+dashboard.png
 ```
 
 ---
