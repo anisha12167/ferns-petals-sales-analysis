@@ -106,12 +106,14 @@ The objective was to transform raw sales data into actionable business insights 
 
 ---
 
-# ## 📁 Repository Structure
+## 📁 Repository Structure
 
 ```text
-Ferns and Petals Sales Analysis.pdf
-README.md
-dashboard.png
+ferns-petals-sales-analysis/
+│
+├── README.md
+├── dashboard.png
+└── Ferns and Petals Sales Analysis.pdf
 ```
 
 ---
